@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='lacinizatar',
-    version='0.0.1',
+    version='0.0.2',
     description='Converter Belarusian Cyrillic to the Latin alphabet',
     author='Pavel Tyslacki',
     author_email='pavel.tyslacki@gmail.com',
