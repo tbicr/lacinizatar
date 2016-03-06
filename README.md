@@ -1,3 +1,3 @@
 # Беларускі лацінізатар / Belarusian łacinizatar
 
-Канвэртар кірыліцы да лацінкі / Converter Cyrillic to the Latin alphabet
+Канвэртар кірыліцы да лацінкі / Converter Belarusian Cyrillic to the Latin alphabet
